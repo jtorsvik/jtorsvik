@@ -5,10 +5,10 @@ I have previously studied Data Science (MSc) at the University of Sussex in Engl
 
 Please feel free to look around my private repository and let me know if there is anything interesting, *"eye-brow raising"*, or simply logically wrong with my projects. Any comments will be met with love! :)
 
-##Contact information
-Phone: +47 454 67 412
-Work e-mail: Joakim.Torsvik@SopraSteria.com
-Private e-mail: Joakim_Torsvik@Hotmail.com
+## Contact information
+Phone: +47 454 67 412\
+Work e-mail: Joakim.Torsvik@SopraSteria.com\
+Private e-mail: Joakim_Torsvik@Hotmail.com\
 
 ##### Kind Regards
 Joakim M. Torsvik
