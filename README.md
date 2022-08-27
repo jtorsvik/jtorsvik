@@ -8,7 +8,7 @@ Please feel free to look around my private repository and let me know if there i
 ## Contact information
 Phone: +47 454 67 412\
 Work e-mail: Joakim.Torsvik@SopraSteria.com\
-Private e-mail: Joakim_Torsvik@Hotmail.com\
+Private e-mail: Joakim_Torsvik@Hotmail.com
 
 ##### Kind Regards
 Joakim M. Torsvik
