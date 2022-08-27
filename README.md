@@ -1,4 +1,14 @@
-Hello, my name is Joakim Torsvik (@jtorsvik).
+# Welcome to the Repository of Joakim Martin Torsvik (@jtorsvik).
 
-At the time of writing I am a student at the University of Sussex in England, studying Data Science MSc.
-I am very interested in coding and will share some of my work on this GitHub-page. Hope you enjoy.
+I'm currently working as a data consultant for Sopra Steria AS in Norway within Data Science and Data Engineering.
+I have previously studied Data Science (MSc) at the University of Sussex in England, where I were taught Machine Learning, Natural Language Processing and Image Processing (with more). 
+
+Please feel free to look around my private repository and let me know if there is anything interesting, *"eye-brow raising"*, or simply logically wrong with my projects. Any comments will be met with love! :)
+
+##Contact information
+Phone: +47 454 67 412
+Work e-mail: Joakim.Torsvik@SopraSteria.com
+Private e-mail: Joakim_Torsvik@Hotmail.com
+
+##### Kind Regards
+Joakim M. Torsvik
