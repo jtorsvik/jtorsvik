@@ -1,5 +1,7 @@
 # Welcome to the Repository of Joakim Martin Torsvik (@jtorsvik).
 
+[TOC]
+
 ## Contact information
 
 **Phone**: +47 454 67 412 :grinning: \
