@@ -1,8 +1,9 @@
 # Welcome to the Repository of Joakim Martin Torsvik (@jtorsvik).
 
 ## Contact information
-Phone: +47 454 67 412\
-Private e-mail: Joakim.Torsvik@iCloud.com
+
+**Phone**: +47 454 67 412 :grinning: \
+**E-mail**: Joakim.Torsvik@iCloud.com :pray:
 
 ## My Professional Summary
 
