@@ -39,7 +39,9 @@ As an engineer within technology I am constantly trying to learn new subjects to
 - [X] Artifical Neural Networks
 - [ ] Computer Vision
 - [ ] Transfer Learning
-- [ ] 
+
+#### Large Language Models
+- [ ] Building an LLM
 
 #### MLOps
 
