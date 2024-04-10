@@ -1,7 +1,5 @@
 # Welcome to the Repository of Joakim Martin Torsvik (@jtorsvik).
 
-[TOC]
-
 ## Contact information
 
 **Phone**: +47 454 67 412 :grinning: \
@@ -44,7 +42,10 @@ As an engineer within technology I am constantly trying to learn new subjects to
 - [ ] Transfer Learning
 
 #### Large Language Models
+
 - [ ] Building an LLM
+- [ ] Understanding and building RAG-models
+- [ ] GenAI?
 
 #### MLOps
 
@@ -55,9 +56,11 @@ As an engineer within technology I am constantly trying to learn new subjects to
 
 - [X] Using **Git Bash**
 - [ ] Creating CI/CD-pipelines with **GitHub Actions**
-- [ ] Deploying Azure resources with **TerraForm**
 - [ ] Pre-commit hooks
 
+## Infrastructure as Code (IAC)
+
+- [ ] Deploying Azure resources with **TerraForm**
 
 ## Outtro
 
