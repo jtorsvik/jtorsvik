@@ -25,7 +25,7 @@ As an engineer within technology I am constantly trying to learn new subjects to
 - [X] Ethical Machine Learning 
 - [X] Machine Learning with Inbalanced Data
 - [X] Using Spark and PySpark for Big Data
-- [ ] Object Oriented Programming with objects and classes
+- [X] Object Oriented Programming with objects and classes
 
 #### TensorFlow
 
