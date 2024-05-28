@@ -60,7 +60,7 @@ As an engineer within technology I am constantly trying to learn new subjects to
 
 #### Infrastructure as Code (IAC)
 
-- [ ] Deploying Azure resources with **TerraForm**
+- [X] Deploying Azure resources with **TerraForm**
 
 ## Outtro
 
