@@ -2,8 +2,10 @@
 
 ## Contact information
 
-**Phone**: +47 454 67 412 :grinning: \
 **E-mail**: Joakim.Torsvik@iCloud.com :pray:
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn Profile](https://www.linkedin.com/in/joakim-martin-torsvik-80a554104/)
+&nbsp;
 
 ## My Professional Summary
 
@@ -38,7 +40,10 @@ As an engineer within technology I am constantly trying to learn new subjects to
 #### PyTorch
 
 - [X] Artifical Neural Networks
-- [ ] Computer Vision
+- [ ] Computer Vision (Ongoing)
+    - [X] Classification
+    - [ ] Object Detection and/or Tracking
+    - [ ] Segmentation
 - [ ] Transfer Learning
 
 #### Large Language Models
