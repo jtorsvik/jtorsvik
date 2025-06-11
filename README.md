@@ -60,12 +60,13 @@ As an engineer within technology I am constantly trying to learn new subjects to
 #### CI/CD
 
 - [X] Using **Git Bash**
-- [ ] Creating CI/CD-pipelines with **GitHub Actions**
+- [X] Creating CI/CD-pipelines with **GitHub Actions**
 - [ ] Pre-commit hooks
 
 #### Infrastructure as Code (IAC)
 
 - [X] Deploying Azure resources with **TerraForm**
+- [X] Deploying AWS resources with **TerraForm**
 
 ## Outtro
 
