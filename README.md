@@ -9,9 +9,12 @@
 
 ## My Professional Summary
 
-I'm a Data Scientist for BaneNOR SF, governmental company that owns, develops and maintains the Norwegian railway infrastructure. As a data scientist for railway company, my job is to solve various problems that can be solved with artificial intelligence and machine learning, such as predictive maintenance, computer vision for object detection and image classification, and NLP to read unstructured texts and documentation.
+I'm a Full Stack Data Scientist Consultant working for Sopra Steria in Oslo, Norway. I have experience working for big companies like Bane Nor SF, Equinor ASA and Aon plc. 
+Bane Nor is a governmental company in Norway that owns, develops and maintains the Norwegian railway infrastructure. My job there was, as a Data Scientist, to solve various problems that can be solved with artificial intelligence and machine learning, such as predictive maintenance, computer vision for object detection and image classification, and NLP to read unstructured texts and documentation.
+I have previously work on mission missions  worked in Data Engineering and Data Science for Equinor ASA, an energy company that works with oil and renewable energy around the world. 
 
-I have previously worked in Data Engineering and Data Science for Equinor ASA, an energy company that works with oil and renewable energy around the world. I have also studied Data Science (MSc) at the University of Sussex in England, where I were taught Machine Learning, Natural Language Processing and Image Processing. 
+My educational background is to have studied Data Science (MSc) at the University of Sussex in England, where I were taught Machine Learning, Natural Language Processing and Image Processing.
+I also hold a bachelors degree (BSc) in Finance from BI Business School (Handelshøyskolen BI) in Norway.
 
 ## Contents of the profile
 
@@ -60,12 +63,13 @@ As an engineer within technology I am constantly trying to learn new subjects to
 #### CI/CD
 
 - [X] Using **Git Bash**
-- [ ] Creating CI/CD-pipelines with **GitHub Actions**
+- [X] Creating CI/CD-pipelines with **GitHub Actions**
 - [ ] Pre-commit hooks
 
 #### Infrastructure as Code (IAC)
 
 - [X] Deploying Azure resources with **TerraForm**
+- [X] Deploying AWS resources with **TerraForm**
 
 ## Outtro
 
