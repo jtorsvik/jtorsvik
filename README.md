@@ -64,7 +64,7 @@ As an engineer within technology I am constantly trying to learn new subjects to
 
 - [X] Using **Git Bash**
 - [X] Creating CI/CD-pipelines with **GitHub Actions**
-- [ ] Pre-commit hooks
+- [X] Pre-commit hooks
 
 #### Infrastructure as Code (IAC)
 
