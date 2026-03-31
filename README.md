@@ -38,7 +38,7 @@ As an engineer within technology I am constantly trying to learn new subjects to
 - [X] Computer Vision
 - [X] Transfer Learning
 - [X] Natural Language Processing
-- [ ] Time-Series
+- [X] Time-Series
 
 #### PyTorch
 
